@@ -66,4 +66,4 @@ Dentro de las posibles realidades virtuales que existen las podemos encontrar de
 Los Cascos de Realidad Virtual (que antes parecía una meta aún lejana) han surgido de nuevo de forma mucho más eficiente e inmediata de lo que podíamos imaginar, si bien aún no están optimizados para su funcionamiento en la casa habitual, su reaparición a favorecido el desarrollo de esta clase de tecnología, ayudando a Microsoft a crear cosas como sus Gafas de Realidad Aumentada y... ¿Quién sabe? Tal vez en un futuro todos las tengamos al alcance de nuestras carteras.
 
 <a href="https://www.youtube.com/watch?v=0OrANjgeYe0" target="_blank">
-<img src="https://www.youtube.com/watch?v=0OrANjgeYe0.jpg">
+<img src="https://i.ytimg.com/vi/0OrANjgeYe0/maxresdefault.jpg">
